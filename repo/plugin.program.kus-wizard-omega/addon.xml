@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.program.kus-wizard-omega" name="[COLOR lime]K.U.S[/COLOR] Wizard Omega" version="2024.04.10" provider-name="SGK">
+    <requires>
+        <import addon="xbmc.python" version="3.0.0" />
+        <import addon="script.module.requests" />
+        <import addon="script.module.six" />
+        <import addon="script.speedtester" optional="true" version="1.1.2" />
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+    </extension>
+    <extension point="xbmc.service" library="startup.py" start="startup" />
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en_GB">K.U.S Wizard Omega</summary>
+        <summary lang="de_DE">K.U.S Wizard Omega</summary>
+        <description lang="en_GB">Simply install pre-configured Kodi builds + Maintenance-Tools.[CR]Support:[CR][COLORdeepskyblue]https://www.facebook.com/groups/kodiunlimited[/COLOR][CR]Donation:[CR][COLORdeepskyblue]https://www.paypal.me/KodiUnlimited[/COLOR]</description>
+        <description lang="de_DE">Einfach fertig vorkonfigurierte Kodi-Builds installieren + Wartungs-Optionen.[CR]Support:[CR][COLORdeepskyblue]https://www.facebook.com/groups/kodiunlimited[/COLOR][CR]Spenden:[CR][COLORdeepskyblue]https://www.paypal.me/KodiUnlimited[/COLOR]</description>
+        <disclaimer lang="en_GB">[B][COLORred]This is a third party addon and is unrelated to the official Kodi team.[/COLOR][/B]</disclaimer>
+		<disclaimer lang="de_DE">[B][COLORred]Dies ist ein Drittanbieter-Addon und steht nicht in Zusammenhang mit dem offiziellen Team Kodi.[/COLOR][/B]</disclaimer>
+		<language>de</language>
+		<platform>all</platform>
+		<license></license>
+		<forum></forum>
+		<website></website>
+		<email></email>
+		<source></source>
+		<news></news>
+        <assets>
+            <icon>icon.png</icon>
+			<fanart>resources/fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
