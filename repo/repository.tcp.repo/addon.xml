@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.tcp.repo" name="[COLOR blue]HSK Tcp Repository[/COLOR]" version="1.1.0" provider-name="HSK-Team">
+  <extension point="xbmc.addon.repository" name="HSK Tcp Repository">
+    <dir minversion="18.0.0" maxversion="22.0.0">
+      <info compressed="true">https://hsk.kodiman.net/hsk/hsk_repos/hsk.tcp.repo/addons.xml.gz</info>
+      <checksum verify="sha256">https://hsk.kodiman.net/hsk/hsk_repos/hsk.tcp.repo/addons.xml.gz.sha256</checksum>
+      <datadir zip="true">https://hsk.kodiman.net/hsk/hsk_repos/hsk.tcp.repo/</datadir>
+      <hashes>sha256</hashes>
+    </dir>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="de_DE">[COLOR blue]Tcp-Addon Verfügbarkeit für alle kodi versionen[/COLOR]</summary>
+    <description lang="de_DE">Downloade und installiere Addon aus dem TCP Repository[CR][CR]Kontakt + Support:[CR][COLORblue]https://www.facebook.com/groups/hskde[/COLOR][CR]Spenden-Link:[CR][COLORblue]https://ko-fi.com/kodimanhimself/goal?g=0[/COLOR]</description>
+    <disclaimer></disclaimer>
+    <language>de</language>
+    <platform>all</platform>
+    <license></license>
+    <forum>https://t.me/+SBS8A9opiRNmMzk6</forum>
+    <website>https://www.facebook.com/groups/hskde</website>
+    <email></email>
+    <source></source>
+    <news></news>
+    <assets>
+      <icon>resources/icon.png</icon>
+      <fanart>resources/fanart.png</fanart>
+      <banner></banner>
+      <clearlogo></clearlogo>
+      <screenshot></screenshot>
+    </assets>
+  </extension>
+</addon>

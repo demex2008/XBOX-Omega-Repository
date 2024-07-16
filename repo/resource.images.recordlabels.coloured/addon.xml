@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="resource.images.recordlabels.coloured" name="Recordlabel Icons - Coloured" version="0.0.1" provider-name="latts9923">
+	<extension point="kodi.resource.images" compile="true" type="recordlabels" />
+	<requires>
+		<import addon="kodi.resource" version="1.0.0"/>
+	</requires>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Coloured Recordlabel Icons</summary>
+		<description lang="en">Coloured Recordlabel Icons</description>
+		<platform>all</platform>
+		<assets>
+			<icon>icon.png</icon>
+		</assets>
+		<news>[B]v0.0.1[/B] - Release date: October 12, 2022[CR]
+[B]ADDITIONS[/B]
+• Initial release.
+• I added GRP Records.
+• Many labels are not yet colored...I will convert them as I have time.
+		</news>
+		<license>Creative Commons Attribution-Share Alike 3.0 United States</license>
+	</extension>
+</addon>
