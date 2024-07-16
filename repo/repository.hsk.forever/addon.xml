@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.hsk.forever" name="[COLOR blue]HSK FOREVER[/COLOR]" version="1.0.6" provider-name="Loki1979|HSK-DE">
+	<extension point="xbmc.addon.repository" name="HSK FOREVER">
+		<dir minversion="19.0.0"  maxversion="22.0.0">
+			<info compressed="true">https://hsk.kodiman.net/hsk/hsk_repos/hsk.crew.nexus.matrix.forever.repo/addons.xml.gz</info>
+			<checksum>https://hsk.kodiman.net/hsk/hsk_repos/hsk.crew.nexus.matrix.forever.repo/addons.xml.gz.sha256</checksum>
+			<datadir zip="true">https://hsk.kodiman.net/hsk/hsk_repos/hsk.crew.nexus.matrix.forever.repo</datadir>
+			<hashes>sha256</hashes>
+		</dir>
+	</extension>
+    <extension point="xbmc.addon.metadata">
+	<summary>Besucht uns auf Facebook oder auf Telegram</summary>
+	<description>
+https://www.facebook.com/groups/hskde
+https://t.me/kodimansgroup</description>
+	<disclaimer></disclaimer>
+	<language></language>
+	<platform>all</platform>
+	<license></license>
+	<forum></forum>
+	<website></website>
+	<email></email>
+	<source></source>
+	<news></news>
+    <assets>
+		<icon>resources/icon.png</icon>
+		<fanart>resources/fanart.jpg</fanart>
+		<banner></banner>
+		<clearlogo></clearlogo>
+		<screenshot></screenshot>
+	</assets>
+	</extension>
+</addon>

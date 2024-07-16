@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.video.kinox.to"
+		name="[COLOR lime]KinoX[/COLOR]"
+		version="1.1.9"
+		provider-name="Loki1979 | HSK-DE">
+	<requires>
+		<!--<import addon="xbmc.python" version="3.0.0" targetversion="3.0.0"/>-->
+        <!-- choose your resolver -->
+		<import addon="script.module.resolveurl"/>
+        <!-- choose your resolver -->
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="addon.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+	<summary>kinox.to</summary>
+	<description>https://www.kinox.to</description>
+	<disclaimer></disclaimer>
+	<language></language>
+	<platform>all</platform>
+	<license></license>
+	<forum></forum>
+	<website></website>
+	<email></email>
+	<source></source>
+	<news></news>
+	<assets>
+	    <icon>icon.png</icon>
+		<icon>resources/icons/icon.png</icon>
+		<fanart>resources/icons/fanart.jpg</fanart>
+		<banner></banner>
+		<clearlogo></clearlogo>
+		<screenshot></screenshot>
+	</assets>
+	</extension>
+</addon>

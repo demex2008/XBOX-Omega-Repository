@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.megakino"
+	name="[COLOR lime]MegaKino[/COLOR]"
+	version="1.1.9" 
+	provider-name="litti19928|loki1979">
+	<requires>
+		<!--<import addon="xbmc.python" version="3.0.0" targetversion="3.0.0"/>-->
+		<!--<import addon="script.module.urlresolver"/>-->
+		<import addon="script.module.resolveurl"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="addon.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+	<summary>megakino.co</summary>
+	<description>https://megakino.co</description>
+	<disclaimer></disclaimer>
+	<language></language>
+	<platform>all</platform>
+	<license></license>
+	<forum></forum>
+	<website></website>
+	<email></email>
+	<source></source>
+	<news></news>
+	<assets>
+		<icon>icon.png</icon>
+		<fanart>resources/fanart.jpg</fanart>
+		<banner></banner>
+		<clearlogo></clearlogo>
+		<screenshot></screenshot>
+	</assets>
+	</extension>
+</addon>

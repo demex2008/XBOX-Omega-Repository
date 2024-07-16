@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon
+  id="plugin.video.videodevil"
+  version="1.8.28"
+  name="[COLOR lime]VideoDevil[/COLOR]"
+  provider-name="xbmc-adult">
+  <requires>
+    <!-- Commenting xbmc.python allows install on all versions of Kodi -->
+    <!-- <import addon="xbmc.python" version="2.14.0"/> -->
+    <import addon="script.module.six"/>
+    <import addon="script.module.kodi-six"/>
+  </requires>
+  <extension 
+    point="xbmc.python.pluginsource"
+    library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="de_DE">Spielen Sie Videos für Erwachsene ab</summary>
+    <summary lang="en_GB">Play videos from different adult streaming sites</summary>
+    <description lang="de_DE">Dieses Addon spielt Videos von YouPorn, Tube8, Boysfood, MoviesAnd, PornoTube, xHamster, KeezMovies und einigen anderen Streaming-Sites für Erwachsene ab. Es enthält explizites Material für Erwachsene. Sie können dieses Addon nur anzeigen, wenn Sie mindestens 18 Jahre alt sind oder mindestens das Alter der Mehrheit in dem Land, in dem Sie wohnen oder von dem aus Sie auf diese Inhalte zugreifen. Wenn Sie diese Anforderungen nicht erfüllen, haben Sie keine Berechtigung, dieses Addon zu verwenden.</description>
+    <description lang="en_GB">This addon plays videos from YouPorn, Tube8, Boysfood, MoviesAnd, PornoTube, xHamster, KeezMovies and some other adult streaming sites. It contains explicit adult material. You may only view this addon if you are at least 18 years of age, or at least the age of majority in the jurisdiction where you reside or from which you access this content. If you do not meet these requirements, then you do not have permission to use this addon.</description>
+    <platform>all</platform>
+    <assets>
+      <icon>icon.png</icon>
+    </assets>
+  </extension>
+</addon>

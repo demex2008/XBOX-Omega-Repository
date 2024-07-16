@@ -1,0 +1,99 @@
+[B]Version: 4.0.10 Nightly 12[/B]
+
+10.07.2024
+
+ - Diverse Domainanpassungen
+ - [Streampalace] Seite entfernt
+ - [intern] Code-Optimierungen und Performance Verbesserungen
+
+[COLOR cyan]________________________________________________________________________________________[/COLOR]
+
+27.06.2024
+
+ - [Einfach] Seite entfernt
+ - [Filmkiste] Seite entfernt
+ - [HDFilme] Domain Anpassung
+ - [KKiste] Domain Anpassung
+ - [Megakino] Domain Anpassung
+ - [Movie4k] Domain Anpassung
+ 
+[COLOR cyan]________________________________________________________________________________________[/COLOR]
+
+07.06.2024
+
+ - [Filmpalast] Anzeige Hosternamen überarbeitet
+
+[COLOR cyan]________________________________________________________________________________________[/COLOR]
+
+31.05.2024
+
+ - [Flimmerstube] Fix für neuen Hoster Bowfile, nun sollten alle Filme wieder laufen
+ - [Alle VoD Dienste] Sprachfilter für Deutsch/Englisch für die Hosterauswahl hinzugefügt.
+    Oha bietet nur deutsche Streams an, solltet ihr die Sprache also auf Englisch stellen werdet ihr dort
+    keine Ergebnisse mehr bekommen
+
+[COLOR cyan]________________________________________________________________________________________[/COLOR]
+
+25.05.2024
+
+ - [Video on Demand Dienste] hinzugefügt ohne Globale Suche
+ - [VoD Huhu] Seite hinzugefügt
+ - [VoD Kool] Seite hinzugefügt
+ - [VoD Oha] Seite hinzugefügt
+ - [VoD Vavoo] Seite hinzugefügt
+ - Alle VoD Elemente müssen erst in den Einstellungen aktiviert werden. Neustart erforderlich!
+ - [KinoGer] .pw vorübergehend deaktiviert
+ 
+[COLOR cyan]________________________________________________________________________________________[/COLOR]
+
+20.05.2024
+
+ - [intern] Errorhandling erweitert (CF)
+
+[COLOR cyan]________________________________________________________________________________________[/COLOR]
+
+19.05.2024
+
+ - [Megakino] Hoster Stream in HD repariert
+
+[COLOR cyan]________________________________________________________________________________________[/COLOR]
+
+10.05.2024
+
+ - [Moflix-Stream] Kollektionen/Marvel-Universe Aufruf korrigiert
+ - [intern] Traceback Errorhandler Exception eingebaut
+
+[COLOR cyan]________________________________________________________________________________________[/COLOR]
+
+06.05.2024
+
+ - [Cinemathek] Kollektionen hinzugefügt
+ - [HDFilme] Domain aktualisiert
+ - [Movie4k] Domain aktualisiert
+ - [Streamcloud] Neuer Menüpunkt Erscheinungsjahr
+ - [intern] Wording Menüpunkte angepasst
+
+[COLOR cyan]________________________________________________________________________________________[/COLOR]
+
+04.05.2024
+
+ - [KinoGer] Hoster überarbeitet
+ 
+[COLOR cyan]________________________________________________________________________________________[/COLOR]
+
+21.04.2024
+
+ - [request/default] Fehlermeldung aussagefähiger gestaltet (meldet jetzt Cloudflare Schutz)
+ - [Cineclix] vorübergehend entfernt (403)
+ - [Kino] vorübergehend entfernt (scheint Offline)
+
+[COLOR cyan]________________________________________________________________________________________[/COLOR]
+
+28.03.2024
+
+ - [Moflix-Stream] Kollektion hinzugefügt
+		Hoster überarbeitet
+		Code Optimierung
+
+[COLOR cyan]________________________________________________________________________________________[/COLOR]
+[I]*Editierhinweis: Text nicht länger als die Linie. Keine Tabulatoren verwenden![/I]
