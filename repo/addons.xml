@@ -1336,7 +1336,7 @@ https://github.com/Vashiel/repository.adulthideout
 
 <addon id="plugin.video.megakino"
 	name="[COLOR lime]MegaKino[/COLOR]"
-	version="1.1.9"
+	version="1.2.0"
 	provider-name="litti19928|loki1979">
 	<requires>
 		<!--<import addon="xbmc.python" version="3.0.0" targetversion="3.0.0"/>-->
